@@ -86,7 +86,7 @@ call s:my_hi('Todo',       '', s:b_yellow,  s:none_color)
 call s:my_hi('Search',     '', '',          s:n_yellow)
 call s:my_hi('Special',    '', s:b_yellow,  '')
 call s:my_hi('Visual',     '', '',          s:b_magenta)
-call s:my_hi('MatchParen', '', s:b_green,   s:n_magenta)
+call s:my_hi('MatchParen', '', s:n_magenta,   s:b_magenta)
 
 call s:my_hi('Folded',           '', s:b_yellow,  s:n_blue)
 
