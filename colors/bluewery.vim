@@ -97,6 +97,7 @@ call s:my_hi('ModeMsg',          '', s:n_yellow,  '')
 call s:my_hi('Cursor',           'reverse', s:b_white,   s:n_black)
 call s:my_hi('CursorLine',       '', '',          s:n_black)
 call s:my_hi('CursorColumn',     '', '',          s:n_black)
+call s:my_hi('ColorColumn',      '', '',          s:n_black)
 
 call s:my_hi('SignColumn',       '', '',          s:n_black)
 
